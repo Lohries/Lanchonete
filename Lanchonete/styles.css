@@ -1,0 +1,10 @@
+.navbar {
+    background-image: linear-gradient(to top, rgb(17, 209, 209), rgb(12, 172, 230) );
+    border-radius: 5px;
+
+}
+
+
+* {
+    font-family: 'Poppins', sans-serif;
+}

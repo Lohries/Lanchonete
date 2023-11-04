@@ -1,0 +1,35 @@
+{
+    "menu": [
+      {
+        "id": 1,
+        "name": "Hamburguer de Siri",
+        "description": "Um delicioso hambúrguer de siri com alface, queijo e molho secreto do Siri Cascudo.",
+        "price": 8.99
+      },
+      {
+        "id": 2,
+        "name": "Hamburguer de Alga Marinha",
+        "description": "Um hambúrguer com alga marinha crocante, tomate e molho especial.",
+        "price": 7.49
+      },
+      {
+        "id": 3,
+        "name": "Batata Frita do Seu Siriguejo",
+        "description": "Batatas fritas crocantes e douradas, servidas com ketchup e mostarda.",
+        "price": 2.99
+      },
+      {
+        "id": 4,
+        "name": "Refresco de Água Salgada",
+        "description": "Um refresco refrescante de água salgada com gelo picado.",
+        "price": 1.99
+      },
+      {
+        "id": 5,
+        "name": "Coral de Sobremesa",
+        "description": "Uma sobremesa doce feita de coral cristalizado e chantilly.",
+        "price": 4.49
+      }
+    ]
+  }
+  
